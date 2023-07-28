@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@rollup/plugin-commonjs": "25.0.0",
+    "@salutejs/client": "^1.17.4",
+    "@salutejs/scenario": "^0.26.0",
+    "rollup-plugin-svelte": "^7.1.4"
+  },
+  "type": "module"
+}
